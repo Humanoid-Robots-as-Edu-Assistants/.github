@@ -1,7 +1,11 @@
 # Hi there 👋
 ## We are the laboratory for communication at the Berlin University of Applied Sciences
 
--> Bild hier einfügen
+<br>
+
+![2022-mgasch-DSCF3382](https://user-images.githubusercontent.com/68842909/213861540-40b5c69f-10ae-46e4-bbff-0c9f23b22be1.jpg)
+
+<br>
 
 ### :family_man_man_girl_boy: About
 In our laboratory our student assistants develop applications for the robots :robot: **Pepper** and **Nao**.<br>

@@ -25,7 +25,7 @@ Our Pepper has the **robot version 1.8** .<br>
 
 
 [Nao says](https://github.com/Humanoid-Robots-as-Edu-Assistants/Nao_says)
-> Nao says (like the popular game Simon says) is a game in which Nao gives instructions to the players to do or not to do something. Then the robot performs the corresponding action and the players have to imitate it. The program currently supports 10 different animations.
+> Nao says (like the popular game Simon says) is a game in which Nao gives instructions to the players to do or not to do something. Then the robot performs the corresponding action and the players have to imitate it. The program currently supports 10 different animations. (It was designed for the "long night of science" in berlin, 2022)
 <br>
 
 [Empathy mapping](https://github.com/Humanoid-Robots-as-Edu-Assistants/empathy_mapping)
@@ -33,15 +33,19 @@ Our Pepper has the **robot version 1.8** .<br>
 <br>
 
 [Easy breathing](https://github.com/Humanoid-Robots-as-Edu-Assistants/easy_breathing)
-> explanation
+> Easy breathing is a simple breathing exercise, which is available in various lengths. NAO helps to maintain an even breathing rhythm with the support of a sound. The sound signals when to breathe in and when to breathe out. It will help to regain focus and to relax.
 <br>
 
 [4-7-8-Breathing](https://github.com/Humanoid-Robots-as-Edu-Assistants/4-7-8-Breathing)
-> explanation
+> The 4-7-8 breathing exercise is a guided breathing meditation, which helps with anxiety and stress. NAO guides the participant through multiple cycles, in which you breathe in, hold your breath and breathe out while assisting with verbal and visual support. 
 <br>
 
 [Evolution Game](https://github.com/Humanoid-Robots-as-Edu-Assistants/evolution_game)
 > An exercise to loosen up the lesson. The students spread out in the room and play rock, paper, scissors against each other to rise in rank. If you want, you can play against Nao.
+<br>
+
+[Planning Poker](https://github.com/Humanoid-Robots-as-Edu-Assistants/Planning_Poker)
+> Planning Poker is an agile method for estimating the time required for specific parts of the project. Nao briefly explains to the participants how planning poker works and then runs them through a test scenario.
 <br>
 
 ### :scroll: Publications

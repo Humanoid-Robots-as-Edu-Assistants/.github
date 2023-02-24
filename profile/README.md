@@ -8,12 +8,11 @@
 <br>
 
 ### :family_man_man_girl_boy: About
-In our laboratory our student assistants develop applications for the robots :robot: **Pepper** and **Nao**.<br>
-These programs are tested with students and then integrated and used in adult teaching. :speech_balloon: <br>
-We currently have **8 completed programs** that we would like to share with you. We hope to<br>
-be able to build up or be part of a broad, well-connected community, which works with these<br>
-or other robots in order to use them in adult teaching.<br>
-Here you can find out more about the [BHT KOM-laboratory](https://labor.bht-berlin.de/kom/). :smiley:
+In our laboratory our student assistants and PhD students develop applications for the humanoid robots :robot: **Pepper** and **Nao**.<br>
+These programs are tested with students and then integrated and used in higher education. :speech_balloon: <br>
+We currently have **8 completed applications** that we would like to share with you. We hope to
+be able to build up or be part of a broader, well-connected community, which works with these and other social robots as teaching and learning assistants.<br>
+Here you can find out more about the [BHT KOM-LAB](https://labor.bht-berlin.de/kom/). :smiley:
 <br>
 
 ### :robot: Our robots Nao and Pepper

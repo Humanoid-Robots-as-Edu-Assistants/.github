@@ -1,5 +1,5 @@
 # Hi there 👋
-## We are the laboratory for communication at the Berlin University of Applied Sciences
+## We are the laboratory for communication at the Berlin University of Applied Sciences, Germany 🤖
 
 <br>
 

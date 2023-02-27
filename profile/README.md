@@ -10,7 +10,7 @@
 ### :family_man_man_girl_boy: About
 In our laboratory our student assistants and PhD students develop applications for the humanoid robots :robot: **Pepper** and **Nao**.<br>
 These programs are tested with students and then integrated and used in higher education. :speech_balloon: <br>
-We currently have **8 completed applications** that we would like to share with you. We hope to
+We currently have **7 completed applications** that we would like to share with you. We hope to
 be able to build up or be part of a broader, well-connected community, which works with these and other social robots as teaching and learning assistants.<br>
 Here you can find out more about the [BHT KOM-LAB](https://labor.bht-berlin.de/kom/). :smiley:
 <br>
@@ -47,6 +47,10 @@ Our Pepper has the **robot version 1.8** .<br>
 > Planning Poker is an agile method for estimating the time required for specific parts of the project. Nao briefly explains to the participants how planning poker works and then runs them through a test scenario.
 <br>
 
+[Daily Scrum](https://github.com/Humanoid-Robots-as-Edu-Assistants/daily_scrum)
+> ...
+<br>
+
 ### :scroll: Publications
 We also try to share our research results through papers. If you are particularly interested<br>
 in a topic, you may find a more detailed document about it below. Also check out our [website](https://labor.bht-berlin.de/kom/roboter-nao-und-pepper/publikationen/),<br>
@@ -61,4 +65,16 @@ where the publications are always up to date.
 - Humanoid robots in higher education: An exploratory study on applying the NAO robot as an educational technology in business studies in hybrid settings.
 [Read on ResearchGate](https://www.researchgate.net/publication/359472987_HUMANOID_ROBOTS_IN_HIGHER_EDUCATION_AN_EXPLORATORY_STUDY_ON_APPLYING_THE_NAO_ROBOT_AS_AN_EDUCATIONAL_TECHNOLOGY_IN_BUSINESS_STUDIES_IN_HYBRID_SETTINGS)
 
-### LICENSE
+### :bookmark_tabs: LICENSE
+
+License for non-commercial use and educational purposes only
+
+Permission is hereby granted, free of charge, to any person or educational institution obtaining a copy of this software and associated documentation files (the "Software"), to use the Software for non-commercial purposes only. That includs the rights to use, copy, modify, merge, publish and/or distribute copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+If copies or works are published or distributed, which contain part or all of the software, the author(s) and contributers are always to be credited.
+
+Commercial use is prohibited without prior written permission from the author.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

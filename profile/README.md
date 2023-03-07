@@ -40,15 +40,15 @@ Our Pepper has the **robot version 1.8** .<br>
 <br>
 
 [Evolution Game](https://github.com/Humanoid-Robots-as-Edu-Assistants/evolution_game)
-> An exercise to loosen up the lesson. The students spread out in the room and play rock, paper, scissors against each other to rise in rank. If you want, you can play against Nao.
+> An exercise to loosen up the lesson. The students spread out in the room and play rock, paper, scissors against each other to rise in rank. If you want, you can play against NAO.
 <br>
 
 [Planning Poker](https://github.com/Humanoid-Robots-as-Edu-Assistants/Planning_Poker)
-> Planning Poker is an agile method for estimating the time required for specific parts of the project. Nao briefly explains to the participants how planning poker works and then runs them through a test scenario.
+> Planning Poker is an agile method for estimating the time required for specific parts of the project. NAO briefly explains to the participants how planning poker works and then runs them through a test scenario.
 <br>
 
 [Daily Scrum](https://github.com/Humanoid-Robots-as-Edu-Assistants/daily_scrum)
-> ...
+> In the scenario "daily scrum - Nao as scrum master", NAO explains to the participants how a daily scrum works and what needs to be considered at such a meeting. Then the group goes through a Daily Scrum meeting together with NAO.
 <br>
 
 ### :scroll: Publications

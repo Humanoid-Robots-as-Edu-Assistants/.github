@@ -64,6 +64,9 @@ Our Pepper has the **robot version 1.8** .<br>
 > Yoga with NAO is a short application in which NAO guides the users through three easy Asanas (Yoga stances). It’s useful for longer
 breaks during lessons with smaller groups.
 <br>
+[Presentation Evaluation by Pepper](https://github.com/Humanoid-Robots-as-Edu-Assistants/Presentation-Evaluation-by-Pepper)
+> In this project, the Pepper robot serves as both a presentation moderator and an evaluator. Pepper delivers verbal instructions to guide the presenter and the audience in accordance with the predefined scenario. Pepper's capabilities extend to recording the presenter's speech and capturing the audience's reactions, including measures of applause, laughter, and whistle intensity in decibels (dB).
+<br>
 
 ### :scroll: Publications
 We also try to share our research results through papers. If you are particularly interested<br>
